@@ -1,0 +1,11 @@
+# -*- makefile -*-
+
+# Sources for project 1.
+projects/1_SRC = projects/1/synctest.c
+
+# Use line below to add sources 
+#projects/1_SRC += projects/1/reader.c
+
+
+
+

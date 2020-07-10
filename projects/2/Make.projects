@@ -1,0 +1,11 @@
+# -*- makefile -*-
+
+# Sources for project 1.
+projects/2_SRC = projects/2/alloctest.c
+
+# Use line below to add sources 
+#projects/2_SRC += projects/2/reader.c
+
+
+
+
