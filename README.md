@@ -1,2 +1,2 @@
 # OS_placement
-implementing OS placement thing.. 
+implementing OS placement principle using pintos
